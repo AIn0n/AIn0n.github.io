@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Vim to nie meta, vim to lokalne minimum
+author: Szymon Górka
+layout: post
+media_subpath: /assets/vim_got_it_wrong/
 ---
-
-
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -35,7 +35,7 @@ wyjaśnić dlaczego lwia część tych argumentów nie ma większego sensu
 i **nie warto używać Vima w celu efektywnej edycji kodu**.
 
 
-<a id="org39bf35f"></a>
+<a id="org46b88c0"></a>
 
 # "I did it my way"
 
@@ -53,7 +53,7 @@ bocznymi i górnymi paskami, oknami wyboru plików, terminal'em,
 debuggerem, etc.
 
 
-<a id="org01c1199"></a>
+<a id="org5c2e6ab"></a>
 
 ## Jest nieźle &#x2026;
 
@@ -66,7 +66,7 @@ alternatyw.
 ![img](./images/me_irl.jpg "Taki wygląd mój, vimiarza na pierwszym roku studiów.")
 
 
-<a id="orged26655"></a>
+<a id="org31bdd81"></a>
 
 ## &#x2026; aż do czasu
 
@@ -79,7 +79,7 @@ opcję - i zrozumiałem skąd potrzeba tylu informacji w nowoczesnych
 IDE.
 
 
-<a id="org0db19f2"></a>
+<a id="org613d30f"></a>
 
 ## TempleOS wannabe
 
@@ -107,7 +107,7 @@ zaobserwować, jeśli nie wychyli się nosa dalej niż plik
 konfiguracyjny edytora, albo proste bash'owe skrypty.
 
 
-<a id="orga541b75"></a>
+<a id="orgbf9cd16"></a>
 
 ## Friendship with QWERTY ended, now colemak is my best friend
 
@@ -124,7 +124,7 @@ pracując na z parą vim + QWERTY. Najwyraźniej nie bez powodu
 **autor colemaka zmienił vima na sublime text**.
 
 
-<a id="org8dc2bfc"></a>
+<a id="orgb815460"></a>
 
 # argumenty przeciw
 
@@ -135,7 +135,7 @@ pozytyw vima wcale nie jest **najbardziej optymalnym rozwiązaniem**.
 ![img](./images/a_vs_b.jpg)
 
 
-<a id="org30094ca"></a>
+<a id="orgf412c9e"></a>
 
 ## "Wow, but vim movement is so great"
 
@@ -177,7 +177,7 @@ rozwiązanie jest wygodniejsze a vim był przy tym tylko dobrą
 inspiracją. 
 
 
-<a id="org0120aef"></a>
+<a id="orgabcb4bf"></a>
 
 ## "Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"
 
@@ -195,7 +195,7 @@ niekompatyblne jeśli zestawimy je praktycznie z każdym innym
 software'm jaki istnieje na rynku.
 
 
-<a id="org9bac9fd"></a>
+<a id="orge8d7d01"></a>
 
 ## "Może i masz rację, jednak nie odpalisz VS Code w terminalu!"
 
@@ -215,7 +215,7 @@ faktycznie przynajmniej raz w tygodniu w takim przypadku vim
 może być realną alternatywą.
 
 
-<a id="org56c4b66"></a>
+<a id="orgef4b823"></a>
 
 ### "Ale ja lubię używać narzędzi w terminalu, które mogę obsługiwać bez myszki!"
 
@@ -232,7 +232,7 @@ pełni skonfigurowanego i wyposażonego w szereg dodatkowych funkcji
 terminala jest absurdalne i niespójne.
 
 
-<a id="orga45b7bb"></a>
+<a id="org40461b8"></a>
 
 ## "Ale vim jest minimalistyczny!!!!11!one!"
 
@@ -256,7 +256,7 @@ W tej chwili piszę ten tekst z komputera, który ma tylko 256 GiB
 przestrzeni dyskowej i te 250 MiB, które zajmuje VSC wcale nie boli.
 
 
-<a id="org8fd92ce"></a>
+<a id="orgde18696"></a>
 
 ## "(zrezygnowany) masz rację, co mogę w takim razie zmienić?"
 
@@ -272,7 +272,7 @@ są przeróżne **wtyczki, które umożliwiają dodanie trybu vima**, z całym
 wachlarzem vimowych modyfikatorów, trybów, etc.
 
 
-<a id="org4ed333d"></a>
+<a id="org46e303a"></a>
 
 # Czy jest gdzieś jeszcze miejsce dla vima?
 
@@ -291,7 +291,7 @@ maszynach z ich obecnymi możliwościami, w tym celu istnieją po prostu
 lepsze opcje.
 
 
-<a id="org58ef63f"></a>
+<a id="org6e16032"></a>
 
 # Podsumowanie
 
@@ -310,7 +310,7 @@ pakietu funkcjonalności - ma on za zadanie **ułatwić Twoją pracę**, a nie
 zapchać dysk niepotrzebną treścią.
 
 
-<a id="orgf276218"></a>
+<a id="org64eda0f"></a>
 
 # słowniczek skrótów
 
@@ -328,7 +328,7 @@ pojętej rodziny edytorów.
 embedded, np. kamera + mikroprocesor obsługujący przetwarzanie obrazu.
 
 
-<a id="org0481531"></a>
+<a id="org2dfdd90"></a>
 
 # przydatne linki
 
