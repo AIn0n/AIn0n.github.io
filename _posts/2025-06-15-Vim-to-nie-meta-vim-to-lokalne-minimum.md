@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Vim to nie meta, vim to lokalne minimum
-date: 2025-06-15 21:08:00 +0000
-categories: [PROGRAMMING_STACK, KEYBOARDS]
-tags: [qmk, keyboards, vim, vscode, editors]     # TAG names should always be lowercase
 ---
 
 
