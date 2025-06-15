@@ -35,8 +35,6 @@ wyjaśnić dlaczego lwia część tych argumentów nie ma większego sensu
 i **nie warto używać Vima w celu efektywnej edycji kodu**.
 
 
-<a id="org46b88c0"></a>
-
 # "I did it my way"
 
 Rozpoczynając studia na kierunku informatyka, miałem już to szczęście
@@ -53,7 +51,6 @@ bocznymi i górnymi paskami, oknami wyboru plików, terminal'em,
 debuggerem, etc.
 
 
-<a id="org5c2e6ab"></a>
 
 ## Jest nieźle &#x2026;
 
@@ -66,8 +63,6 @@ alternatyw.
 ![img](./images/me_irl.jpg "Taki wygląd mój, vimiarza na pierwszym roku studiów.")
 
 
-<a id="org31bdd81"></a>
-
 ## &#x2026; aż do czasu
 
 Jednak wraz z rozpoczęciem drugiego roku, na moim uczelnianym
@@ -78,8 +73,6 @@ i poznawanie technologii od podeszwki, od razu wybrałem tę
 opcję - i zrozumiałem skąd potrzeba tylu informacji w nowoczesnych
 IDE.
 
-
-<a id="org613d30f"></a>
 
 ## TempleOS wannabe
 
@@ -107,8 +100,6 @@ zaobserwować, jeśli nie wychyli się nosa dalej niż plik
 konfiguracyjny edytora, albo proste bash'owe skrypty.
 
 
-<a id="orgbf9cd16"></a>
-
 ## Friendship with QWERTY ended, now colemak is my best friend
 
 W tym samym okresie wskoczyłem wesoło w rabbit hole klawiatur
@@ -124,8 +115,6 @@ pracując na z parą vim + QWERTY. Najwyraźniej nie bez powodu
 **autor colemaka zmienił vima na sublime text**.
 
 
-<a id="orgb815460"></a>
-
 # argumenty przeciw
 
 Pozwolę sobie przeprowadzić teraz **dialog platoński**, z archetypowym
@@ -134,8 +123,6 @@ pozytyw vima wcale nie jest **najbardziej optymalnym rozwiązaniem**.
 
 ![img](./images/a_vs_b.jpg)
 
-
-<a id="orgf412c9e"></a>
 
 ## "Wow, but vim movement is so great"
 
@@ -177,8 +164,6 @@ rozwiązanie jest wygodniejsze a vim był przy tym tylko dobrą
 inspiracją. 
 
 
-<a id="orgabcb4bf"></a>
-
 ## "Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"
 
 Podobnie jak każdy inny program dostępny na rynku, z tą subtelną
@@ -194,8 +179,6 @@ klawiszowe w vimie są złe same w sobie - jednak z całą pewnością są
 niekompatyblne jeśli zestawimy je praktycznie z każdym innym
 software'm jaki istnieje na rynku.
 
-
-<a id="orge8d7d01"></a>
 
 ## "Może i masz rację, jednak nie odpalisz VS Code w terminalu!"
 
@@ -215,8 +198,6 @@ faktycznie przynajmniej raz w tygodniu w takim przypadku vim
 może być realną alternatywą.
 
 
-<a id="orgef4b823"></a>
-
 ### "Ale ja lubię używać narzędzi w terminalu, które mogę obsługiwać bez myszki!"
 
 Nie lubisz, a po prostu dobrze je znasz i spędziłeś z nimi dużo czasu.
@@ -231,8 +212,6 @@ edytora (o czym za chwilę powiem więcej) a zarazem z nowoczesnego, w
 pełni skonfigurowanego i wyposażonego w szereg dodatkowych funkcji
 terminala jest absurdalne i niespójne.
 
-
-<a id="org40461b8"></a>
 
 ## "Ale vim jest minimalistyczny!!!!11!one!"
 
@@ -256,8 +235,6 @@ W tej chwili piszę ten tekst z komputera, który ma tylko 256 GiB
 przestrzeni dyskowej i te 250 MiB, które zajmuje VSC wcale nie boli.
 
 
-<a id="orgde18696"></a>
-
 ## "(zrezygnowany) masz rację, co mogę w takim razie zmienić?"
 
 Jeśli miałbym podać ci tylko i wyłącznie jedną rzecz, którą warto
@@ -271,8 +248,6 @@ zarazem chcesz mieć możliwość korzystania z nowoczesnego IDE, dostępne
 są przeróżne **wtyczki, które umożliwiają dodanie trybu vima**, z całym
 wachlarzem vimowych modyfikatorów, trybów, etc.
 
-
-<a id="org46e303a"></a>
 
 # Czy jest gdzieś jeszcze miejsce dla vima?
 
@@ -291,8 +266,6 @@ maszynach z ich obecnymi możliwościami, w tym celu istnieją po prostu
 lepsze opcje.
 
 
-<a id="org6e16032"></a>
-
 # Podsumowanie
 
 Mogłem w całym powyższym artykule reprezentować postawę wielkiego
@@ -310,8 +283,6 @@ pakietu funkcjonalności - ma on za zadanie **ułatwić Twoją pracę**, a nie
 zapchać dysk niepotrzebną treścią.
 
 
-<a id="org64eda0f"></a>
-
 # słowniczek skrótów
 
 *IDE* - *Integrated Developer Environment* edytor kodu zintegrowany z
@@ -326,9 +297,6 @@ pojętej rodziny edytorów.
 
 *edge AI* - AI na urządzeniach końcowych, często z pogranicza
 embedded, np. kamera + mikroprocesor obsługujący przetwarzanie obrazu.
-
-
-<a id="org2dfdd90"></a>
 
 # przydatne linki
 
