@@ -126,6 +126,11 @@ pozytyw vima wcale nie jest **najbardziej optymalnym rozwiązaniem**.
 
 ## "Wow, but vim movement is so great"
 
+Mianem *Vim movement* określam sposób poruszania się w vimie. Jest on
+o tyle ergonomiczny, że gdy nie jesteśmy w trybie edycji za strzałki
+służą nam klawisze *h*, *j*, *k*, *l*, które znajdują się blisko
+domyślnej pozycji ręki na klawiaturze, tzw *home row*.
+
 Tak, **różne tryby vima ułatwiają poruszanie się**, w przypadku
 **standardowej klawiatury**. Jednak w momencie, kiedy zniknie to
 ograniczenie a klawiatura może mieć dowolne, wbudowane przez nas
@@ -165,6 +170,8 @@ inspiracją.
 
 
 ## "Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"
+
+![img](./images/vim_peak_shortcut.jpg)
 
 Podobnie jak każdy inny program dostępny na rynku, z tą subtelną
 rożnicą, że wklejanie to ctrl+V, nie żaden "Yank" lub
