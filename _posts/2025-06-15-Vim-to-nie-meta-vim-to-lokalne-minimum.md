@@ -10,30 +10,7 @@ modified at 2025-06-16 20:18:34 by org_md2blog_post.py
 -->
 
 
-# Spis treści
-
-- [Spis treści](#spis-treści)
-- [Wstęp](#wstęp)
-- ["I did it my way"](#i-did-it-my-way)
-  - [Jest nieźle …](#jest-nieźle-)
-  - [… aż do czasu](#-aż-do-czasu)
-  - [TempleOS wannabe](#templeos-wannabe)
-  - [Friendship with QWERTY ended, now colemak is my best friend](#friendship-with-qwerty-ended-now-colemak-is-my-best-friend)
-- [argumenty przeciw](#argumenty-przeciw)
-  - ["Wow, but vim movement is so great"](#wow-but-vim-movement-is-so-great)
-  - ["Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"](#może-i-movement-da-się-zastąpić-ale-mamy-wiele-przydatnych-mark-i-skrotów)
-  - ["Może i masz rację, jednak nie odpalisz VS Code w terminalu!"](#może-i-masz-rację-jednak-nie-odpalisz-vs-code-w-terminalu)
-  - ["Ale vim jest minimalistyczny!!!!11!one!"](#ale-vim-jest-minimalistyczny11one)
-  - ["(zrezygnowany) masz rację, co mogę w takim razie zmienić?"](#zrezygnowany-masz-rację-co-mogę-w-takim-razie-zmienić)
-- [Czy jest gdzieś jeszcze miejsce dla vima?](#czy-jest-gdzieś-jeszcze-miejsce-dla-vima)
-- [Podsumowanie](#podsumowanie)
-- [słowniczek skrótów](#słowniczek-skrótów)
-- [przydatne linki](#przydatne-linki)
-
-
-
-
-# Wstęp
+## Wstęp
 
 Ostatnimi czasy zacząłem uczyć się Emacsa, jak otwarto-źrodłowej
 alternatywy dla Obsidiana i podobnych narzędzi do robienia
@@ -47,7 +24,7 @@ i **nie warto używać Vima w celu efektywnej edycji kodu**.
 
 
 
-# "I did it my way"
+## "I did it my way"
 
 Rozpoczynając studia na kierunku informatyka, miałem już to szczęście
 że byłem zaawansowanym linuksiarzem i zwolennikiem filozofii
@@ -64,7 +41,7 @@ debuggerem, etc.
 
 
 
-## Jest nieźle &#x2026;
+### Jest nieźle &#x2026;
 
 Nie znając zbytnio alternatyw pierwszy rok mojej przygody z
 programowaniem w trakcie studiów ukończyłem, używając tylko i
@@ -76,7 +53,7 @@ alternatyw.
 
 
 
-## &#x2026; aż do czasu
+### &#x2026; aż do czasu
 
 Jednak wraz z rozpoczęciem drugiego roku, na moim uczelnianym
 horyzoncie jawił się przedmiot Systemy Operacyjne 2 i jedną z
@@ -88,7 +65,7 @@ IDE.
 
 
 
-## TempleOS wannabe
+### TempleOS wannabe
 
 Praca nad systemem operacyjnym wymagała zręcznego przemieszczania się
 pomiędzy wieloma otwartymi plikami, i VSC z swoim podglądem całego
@@ -115,7 +92,7 @@ konfiguracyjny edytora, albo proste bashowe skrypty.
 
 
 
-## Friendship with QWERTY ended, now colemak is my best friend
+### Friendship with QWERTY ended, now colemak is my best friend
 
 W tym samym okresie wskoczyłem wesoło w rabbit hole klawiatur
 mechanicznych a przede wszystkim układów klawiatury. Przestałem
@@ -131,7 +108,7 @@ pracując z parą vim + QWERTY. Najwyraźniej nie bez powodu
 
 
 
-# argumenty przeciw
+## argumenty przeciw
 
 Pozwolę sobie przeprowadzić teraz **dialog platoński**, z archetypowym
 **zwolennikiem vima**, w celu udowodnienia, że każda z cech uznawanych za
@@ -141,7 +118,7 @@ pozytyw vima wcale nie jest **najbardziej optymalnym rozwiązaniem**.
 
 
 
-## "Wow, but vim movement is so great"
+### "Wow, but vim movement is so great"
 
 Mianem *Vim movement* określam sposób poruszania się w vimie. Jest on
 o tyle ergonomiczny, że gdy nie jesteśmy w trybie edycji za strzałki
@@ -187,7 +164,7 @@ inspiracją.
 
 
 
-## "Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"
+### "Może i movement da się zastąpić, ale mamy wiele przydatnych mark i skrotów!"
 
 ![img](./images/vim_peak_shortcut.jpg)
 
@@ -206,7 +183,7 @@ oprogamowaniem jaki istnieje na rynku.
 
 
 
-## "Może i masz rację, jednak nie odpalisz VS Code w terminalu!"
+### "Może i masz rację, jednak nie odpalisz VS Code w terminalu!"
 
 W 99% wyzwań, jakie stoją przed współczesnym programistą nie ma on
 kontaktu z sprzętem, który realnie wymaga od niego aby łączył się
@@ -225,7 +202,7 @@ może być realną alternatywą.
 
 
 
-## "Ale vim jest minimalistyczny!!!!11!one!"
+### "Ale vim jest minimalistyczny!!!!11!one!"
 
 Zdefiniuj minimalizm i czy jest nim instalowanie kolejnego runtime'a
 języka, którego realnie nie użyjesz, na ile też minimalizmem jest
@@ -248,7 +225,7 @@ przestrzeni dyskowej i te 250 MiB, które zajmuje VSC wcale nie boli.
 
 
 
-## "(zrezygnowany) masz rację, co mogę w takim razie zmienić?"
+### "(zrezygnowany) masz rację, co mogę w takim razie zmienić?"
 
 Jeśli miałbym podać ci tylko i wyłącznie jedną rzecz, którą warto
 zmienić by odczuć różnicę w korzystaniu praktycznie z każdego typu
@@ -263,7 +240,7 @@ wachlarzem vimowych modyfikatorów, trybów, etc.
 
 
 
-# Czy jest gdzieś jeszcze miejsce dla vima?
+## Czy jest gdzieś jeszcze miejsce dla vima?
 
 Oczywiście! Mimo wszystko znajdzie się czasem potrzeba, na użycie
 prostego terminalowego edytora tekstu, gdy chcesz na szybko przerobić
@@ -281,7 +258,7 @@ lepsze opcje.
 
 
 
-# Podsumowanie
+## Podsumowanie
 
 Mogłem w całym powyższym artykule reprezentować postawę wielkiego
 antyfana vima, jednak prawda jest zgoła inna - uważam, że vim to też
@@ -299,7 +276,7 @@ zapchać dysk niepotrzebną treścią.
 
 
 
-# słowniczek skrótów
+## słowniczek skrótów
 
 *IDE* - *Integrated Developer Environment* edytor kodu zintegrowany z
 innymi, niezbędny dla programisty narzędziami, takimi jak debugger,
@@ -316,7 +293,7 @@ embedded, np. kamera + mikroprocesor obsługujący przetwarzanie obrazu.
 
 
 
-# przydatne linki
+## przydatne linki
 
 -   [SCSBAF40](https://github.com/AIn0n/scsbaf40), projekt mojej prywatnej klawiatury
 -   [Colemak](https://colemak.com/), ergonomiczny układ klawiatury
