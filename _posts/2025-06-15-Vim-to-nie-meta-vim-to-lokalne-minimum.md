@@ -1,8 +1,9 @@
 ---
-title: Vim to nie meta, vim to lokalne minimum
+title: \[PL\] Vim to nie meta, vim to lokalne minimum
 author: Szymon Górka
 layout: post
 media_subpath: /assets/vim_got_it_wrong/
+tags: [pl, text_editors]
 ---
 
 <!--
