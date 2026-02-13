@@ -2,6 +2,7 @@
 #+TITLE: The wildest open source licenses
 #+AUTHOR: Szymon Górka
 #+BIND: org-export-html-with-ids nil
+#+OPTIONS: toc:nil
 
 ** Introduction
 
