@@ -6,11 +6,11 @@ tags: [license, open_source]
 ---
 
 <!--
-modified at 2026-02-13 19:44:46 by org_md2blog_post.py
+modified at 2026-02-13 by org_md2blog_post.py
 -->
 
 
-## Introduction
+# Introduction
 
 Recent weeks have brought many changes to the open source community. To
 name a few, let's bring up the Tailwind situation, [curl](https://www.theregister.com/2026/01/21/curl_ends_bug_bounty/) ends its bug
@@ -23,7 +23,7 @@ present to all of you in this blogpost.
 
 
 
-## JSON
+# JSON
 
 JSON is infamously known in the open source world for its quite
 specific license - at first sight it looks like a classic MIT license
@@ -35,10 +35,6 @@ different:
 Douglas Crockford, the father of JSON standard, added this moral
 clause to address the **war on terror**, probably without the slightest
 imagination of the consequences.
-
-
-
-### Consequences
 
 Around 2009, Google Code (at the time, the biggest open source host
 service) **stopped hosting projects under this modified license**, and a
@@ -66,7 +62,7 @@ whole known web.
 
 
 
-## Vim
+# Vim
 
 Vim, one of the most popular text editor among programmers and
 weirdos, also has some licensing quirks. The software is officially
@@ -85,11 +81,11 @@ editor he shared what was important to him.
 
 
 
-## SQLite Code of Ethics
+# SQLite
 
 This one isn't technically a license, but something what we would
 call today a **Code of Conduct**. It's based on [teachings](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) of Christian
-philosopher and ascetic, St. Benedict and they are around **1,500** years
+philosopher and ascetic, St. Benedict and which are around **1,500** years
 old. The authors of the project stated:
 
 > The founder of SQLite and all current developers have pledged to
@@ -102,20 +98,14 @@ old. The authors of the project stated:
 Nevertheless, you rarely encounter the open source project, with
 developers who follows rules **unprecedented in computer science**, like:
 
--   "First of all, love the Lord God with your whole heart, your whole
-    soul, and your whole strength,"
+-   "Do not commit adultery,"
 -   "Deny oneself in order to follow Christ,"
 -   "Be not addicted to wine,"
--   "Devote yourself frequently to prayer."
-
-
-
-### Consequences
+-   "Be not a great eater."
 
 The project has been functioning with these rules since start of this
-millennium, but somewhere **around 2018**, the code of conduct (mentioned
-above set of St. Benedict rules) caused [public outcry on Twitter](https://www.theregister.com/2018/10/22/sqlite_code_of_conduct/). The
-**authors decided back then to rename it** from *code of conduct* to
+millennium, but somewhere **around 2018**, the code of conduct caused [public outcry on Twitter](https://www.theregister.com/2018/10/22/sqlite_code_of_conduct/). The
+***authors decided back then to rename it** from *code of conduct* to
 [code of ethics](https://sqlite.org/codeofethics.html). I didn't find any statistics regarding usage (or lack
 thereof) in the regions where christanity is a less dominant religion.
 
@@ -142,19 +132,18 @@ sophisticated engines (like PostgreSQL). Today, we have some
 alternatives, such as **DuckDB**, but generally speaking, I would say it's
 one of **the most influential projects in databases**.
 
-For us developers, let it be lesson to **know well the rules** that
+For us developers, let it be a lesson to **know well the rules** that
 maintainers of open source agreed on, especially when we also want to
 participate in the development, or even community.
 
 
 
-## Summary
+# Summary
 
 This article came from pure curiosity but I would like to outline and
 demonstrate the **possibilities that licenses bring to us**. Choosing or
 writing your own license is **way more than minor step** during project
-initialization. This document is clearly for us - both as a set of
-**duties and rights**, which we get. It gives us power to really affect
-the world, or just to make some simple statements aligned with our
-worldview and goals.
+initialization. This document serves both as a set of **duties and
+rights**. It gives us power to truly affect the world, or just to make
+some simple statements aligned with our worldview and goals.
 
