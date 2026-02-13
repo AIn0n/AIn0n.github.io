@@ -1,32 +1,32 @@
 ---
-title: O mnie
+title: About Me
 layout: page
 icon: fas fa-info-circle
 order: 4
 ---
 
-Cześć! Jestem **Szymon**, inżynier oprogramowania i pasjonat technologii. 
+Hi! I'm **Szymon**, a software engineer and technology enthusiast. 
 
-### 🔧 Doświadczenie zawodowe
-- **ML Engineer** w [Digica](https://digica.com) (od 3 lat)  
-- **Backend Developer** w [Septic Solutions](https://szambiarka.pl) (1 rok)  
+### 🔧 Professional Experience
+- **ML Engineer** at [Digica](https://digica.com) (3 years)  
+- **Backend Developer** at [Septic Solutions](https://szambiarka.pl) (2 years)  
 
-### 🎓 Wykształcenie
-- **Inżynier Informatyki**  
-*Politechnika Łódzka*  
-Praca dyplomowa: Współtworzenie jednego z **najszybszych algorytmów do porównywania sekwencji genomowych**  
+### 🎓 Education
+- **B.Eng. in Computer Science**  
+*Lodz University of Technology*  
+Thesis: Co-authoring one of the **fastest algorithms for genomic sequence comparison**  
 
-### 💻 Pasje techniczne
-- Eksploracja teorii języków programowania (czytanie prac naukowych)
-- Implementacja rozwiązań machine learningowych
+### 💻 Technical Interests
+- Exploring programming language theory (reading academic papers)
+- Implementing machine learning solutions
 
-### ⚔️ Po godzinach
-- **Szermierka szablą** – regularne treningi
-- **Filozofia** – obecnie zajawka na nihilizm
-- **Koneser kawy** – eksperymenty z alternatywnymi metodami parzenia
+### ⚔️ Outside of Work
+- **Saber Fencing** – regular training sessions
+- **Philosophy** – currently exploring nihilism
+- **Coffee Connoisseur** – experimenting with alternative brewing methods
 
-### ✍️ O tym blogu
-Blog poświęcam **głębokim analizom technicznym**, praktycznym implementacjom oraz przemyśleniom z pogranicza inżynierii oprogramowania i machine learning. Dzielę się tu:
-- Case studies z projektów ML
-- Optymalizacjami systemów backendowych
-- Refleksjami o architekturze języków programowania
+### ✍️ About This Blog
+This blog is dedicated to **in-depth technical analyses**, practical implementations, and reflections on the intersection of software engineering and machine learning. Here, I share:
+- Case studies from ML projects
+- Backend system optimizations
+- Thoughts on programming language architecture
