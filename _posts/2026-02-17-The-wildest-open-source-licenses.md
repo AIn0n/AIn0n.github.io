@@ -2,12 +2,12 @@
 title: The wildest open source licenses
 author: Szymon Górka
 layout: post
-tags: [license, open_source]
 ---
 
 <!--
-modified at 2026-02-13 by org_md2blog_post.py
+modified at 2026-02-17 by org_md2blog_post.py
 -->
+
 
 
 # Introduction
@@ -15,12 +15,11 @@ modified at 2026-02-13 by org_md2blog_post.py
 Recent weeks have brought many changes to the open source community. To
 name a few, let's bring up the Tailwind situation, [curl](https://www.theregister.com/2026/01/21/curl_ends_bug_bounty/) ends its bug
 bounty program and quite pessimistic attitude of open source
-[maintainers](https://www.linkedin.com/posts/svpino_yesterday-i-spoke-with-a-developer-who-stopped-activity-7420095436134170624-B49o?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjahVMBxA4EKJ9zR5SEPHk8v_XCHb-MTN4). This mobilized me to dive deep and check how the LLMs has
+[maintainers](https://www.linkedin.com/posts/svpino_yesterday-i-spoke-with-a-developer-who-stopped-activity-7420095436134170624-B49o?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjahVMBxA4EKJ9zR5SEPHk8v_XCHb-MTN4). This mobilized me to dive deep and check how the LLMs have
 changed the licenses of open source projects. During my research I
 spotted some *outliers* in the open source licensing world - funny,
 interesting, religious, and idealistic ones - which I would like to
 present to all of you in this blogpost.
-
 
 
 # JSON
@@ -32,39 +31,38 @@ different:
 
 > The Software shall be used for Good, not Evil.
 
-Douglas Crockford, the father of JSON standard, added this moral
+Douglas Crockford, the father of the JSON standard, added this moral
 clause to address the **war on terror**, probably without the slightest
 imagination of the consequences.
 
 Around 2009, Google Code (at the time, the biggest open source host
 service) **stopped hosting projects under this modified license**, and a
 year later the Android development team changed the JSON
-implementation to another with **less restrictive license**. Around this
-time, one of the maintainers of Debian contacted Douglas, suggested
+implementation to another with a **less restrictive license**. Around this
+time, one of the maintainers of Debian contacted Douglas and suggested
 removing the line from license. Crockford responded in a
 straightforward way: 
 
 > If you cannot tolerate the license, then do not use the software.
 
-Over the years author of JSLint and the JSON standard was approached
-many times by **big tech companies, to change the license**, make it
-possible to use for them. The best-known case is [IBM](https://www.maggieoates.com/blog/json-and-good-not-evil/), when the **author
-finally broke** and added short appendix to the license:
+Over the years, the author of JSLint and the JSON standard was
+approached many times by **big tech companies, to change the license**,
+make it possible for them to use it. The best-known case is [IBM](https://www.maggieoates.com/blog/json-and-good-not-evil/), when
+the **author finally broke** and added a short appendix to the license:
 
 > I give permission to IBM, its customers, partners, and minions, to use
 > JSLint for evil.
 
 Clearly sarcastic, but legal from IBM's lawyers' perspective.
 
-Today, JSON is one of the most frequently used format at the
+Today, JSON is one of the most frequently used formats in the
 world. It's a **fundamental piece of standardization** supporting the
 whole known web.
 
 
-
 # Vim
 
-Vim, one of the most popular text editor among programmers and
+Vim, one of the most popular text editors among programmers and
 weirdos, also has some licensing quirks. The software is officially
 [charityware](https://en.wikipedia.org/wiki/Careware) - free and open source, but encourages users to pay
 donations to a [charity that helps children in Uganda](https://vimdoc.sourceforge.net/htmldoc/uganda.html#license). The maintainer of
@@ -74,19 +72,18 @@ of his trips to the Kibaale Community Centre.
 
 Licenses can be more than a dull, soulless and boring piece of text
 addressed to lawyers. It can be our way to **support people**, show our
-morals and **encourage others to the cause**. Thanks to Bram decision,
-the foundation he supported, received a **few thousand dollars**
+morals and **encourage others to the cause**. Thanks to Bram's decision,
+the foundation he supported received a **few thousand dollars**
 yearly. He made direct impact, because alongside the primitive text
 editor he shared what was important to him.
 
 
-
 # SQLite
 
-This one isn't technically a license, but something what we would
-call today a **Code of Conduct**. It's based on [teachings](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) of Christian
-philosopher and ascetic, St. Benedict and which are around **1,500** years
-old. The authors of the project stated:
+This one isn't technically a license, but something that we would
+call today a **Code of Conduct**. It's based on [teachings](https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict) of the
+Christian philosopher and ascetic, St. Benedict and these are around
+***1,500** years old. The authors of the project stated:
 
 > The founder of SQLite and all current developers have pledged to
 > follow the spirit of The Rule to the best of their ability. They view
@@ -95,8 +92,8 @@ old. The authors of the project stated:
 > other words, the developers are saying: "We will treat you this way
 > regardless of how you treat us."
 
-Nevertheless, you rarely encounter the open source project, with
-developers who follows rules **unprecedented in computer science**, like:
+Nevertheless, you rarely encounter an open source project with
+developers who follow rules **unprecedented in computer science**, like:
 
 -   "Do not commit adultery,"
 -   "Deny oneself in order to follow Christ,"
@@ -104,14 +101,15 @@ developers who follows rules **unprecedented in computer science**, like:
 -   "Be not a great eater."
 
 The project has been functioning with these rules since start of this
-millennium, but somewhere **around 2018**, the code of conduct caused [public outcry on Twitter](https://www.theregister.com/2018/10/22/sqlite_code_of_conduct/). The
-***authors decided back then to rename it** from *code of conduct* to
-[code of ethics](https://sqlite.org/codeofethics.html). I didn't find any statistics regarding usage (or lack
-thereof) in the regions where christanity is a less dominant religion.
+millennium, but somewhere **around 2018**, the code of conduct caused
+[public outcry on Twitter](https://www.theregister.com/2018/10/22/sqlite_code_of_conduct/). The **authors decided back then to rename it**
+from *code of conduct* to [code of ethics](https://sqlite.org/codeofethics.html). I didn't find any statistics
+regarding usage (or lack thereof) in the regions where christianity is
+a less dominant religion.
 
-Some sources mention that declaration of one-way promised was also
-changed, previously it sounded a bit more restrictive, including whole
-community of SQLite:
+Some sources mention that declaration of one-way promise was also
+changed, previously it sounded a bit more restrictive, including the
+whole community of SQLite:
 
 > This rule is strict, and none are able to comply perfectly. Grace is
 > readily granted for minor transgressions.
@@ -124,25 +122,24 @@ community of SQLite:
 > discussion is always welcomed, from anyone.
 
 The SQLite project is **still maintained** by its ascetic developers,
-and I hope it will be available regardless the religion of maintainers
-and users. It's one of the [most popular database engines](https://db-engines.com/en/ranking_trend), started a
-family of **serverless databases**, great for use in data analytics,
-debugging or even **testing**, as a drop-in replacement for more
-sophisticated engines (like PostgreSQL). Today, we have some
-alternatives, such as **DuckDB**, but generally speaking, I would say it's
-one of **the most influential projects in databases**.
+and I hope it will be available regardless of the religion of
+maintainers  and users. It's one of the [most popular database engines](https://db-engines.com/en/ranking_trend)
+and started a family of **serverless databases**, great for use in data
+analytics, debugging or even **testing**, as a drop-in replacement for
+more sophisticated engines (like PostgreSQL). Today, we have some
+alternatives, such as **DuckDB**, but generally speaking, I would say
+it's one of **the most influential projects in databases**. 
 
 For us developers, let it be a lesson to **know well the rules** that
-maintainers of open source agreed on, especially when we also want to
-participate in the development, or even community.
-
+maintainers of open source projet agreed on, especially when we also
+want to participate in the development, or even the community.
 
 
 # Summary
 
 This article came from pure curiosity but I would like to outline and
 demonstrate the **possibilities that licenses bring to us**. Choosing or
-writing your own license is **way more than minor step** during project
+writing your own license is **way more than a minor step** during project
 initialization. This document serves both as a set of **duties and
 rights**. It gives us power to truly affect the world, or just to make
 some simple statements aligned with our worldview and goals.
