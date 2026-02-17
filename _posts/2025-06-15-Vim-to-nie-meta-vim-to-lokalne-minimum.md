@@ -60,7 +60,7 @@ Jednak wraz z rozpoczęciem drugiego roku, na moim uczelnianym
 horyzoncie jawił się przedmiot Systemy Operacyjne 2 i jedną z
 możliwych form zaliczenia było napisanie własnego, prostego
 systemu operacyjnego. Będąc kimś kto niezwykle lubi wyzwania
-i poznawanie technologii od podeszwki, od razu wybrałem tę
+i poznawanie technologii od podszewki, od razu wybrałem tę
 opcję - i zrozumiałem skąd potrzeba tylu informacji w nowoczesnych
 IDE.
 

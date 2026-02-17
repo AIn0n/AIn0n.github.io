@@ -2,6 +2,7 @@
 title: The wildest open source licenses
 author: Szymon Górka
 layout: post
+tags: [license, open_source]
 ---
 
 <!--
