@@ -101,8 +101,8 @@ I have **no idea**. The process was not as bad as I expected it to
 be - I read a lot of opinions about Kyoto cold drip being easy to mess
 up but overall - it was **quite easy** and I didn't have to intervene for
 anything. But the taste was so close to something like cold brew
-(it's worth noting - it was faster), and the whole
-**machinery* takes **a lot of space in a small kitchen**, that it
+(it's worth noting - it was faster), and the whole *machinery* 
+takes **a lot of space in a small kitchen**, that it
 probably **didn't make the method well suited for daily use**, but
 summer is emerging quickly and maybe bored and tired from the heat
 wave I will do it again. Nevertheless, I think it was worth it to try
