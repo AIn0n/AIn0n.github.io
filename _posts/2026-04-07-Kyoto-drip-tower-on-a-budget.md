@@ -28,7 +28,7 @@ The [cheapest](https://www.amazon.com/PARACITY-Coffee-Maker-Borosilicate-Drip/dp
 with shipping to Poland and it seems like people complain a bit
 about the quality in reviews. I've decided that this can be done
 cheaper, on a budget, using easily available items or something that I
-***already have in my kitchen**.
+**already have in my kitchen**.
 
 BTW, the picture above is from the [Reddit thread](https://www.reddit.com/r/DIY/comments/ixmq1e/i_built_a_kyoto_cold_brew_drip_coffee_tower/).
 
